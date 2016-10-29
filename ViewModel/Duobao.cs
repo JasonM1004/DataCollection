@@ -9,7 +9,7 @@ namespace ViewModel
     public class PastDetailsItem
     {
         /// <summary>
-        /// 
+        /// 账号ID
         /// </summary>
         public string accountId { get; set; }
 
